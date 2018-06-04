@@ -1,0 +1,56 @@
+body {
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 200px;
+    font-family: 'Bowlby One SC', cursive;
+    color: white;
+}
+h2 {
+    text-align: center;
+    font-size: 120px;
+    font-family: 'Alfa Slab One', cursive;
+    transform: rotate(-10deg);
+    color: #009688;
+    margin-right: 360px;
+    margin-top: -80px;
+}
+#left-body {
+    margin-left: 22%
+}
+#right-body {
+    height: auto;
+}
+.container {
+    float: left;
+    height: 650px;
+    width: 400px;
+    border: 5px white dashed;
+    margin-top: 50px;
+}
+p {
+    text-transform: uppercase;
+    line-height: 35px;
+    text-align: center;
+    padding: 30px;
+    font-size: 21px;
+    color: white;
+    font-family: 'Bevan', cursive;
+}
+#bands {
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 10px;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}
+#letters {
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 30px;
+    font-family: 'Permanent Marker', cursive;
+    color: white;
+}

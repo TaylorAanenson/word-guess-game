@@ -19,38 +19,39 @@ h2 {
 #left-body {
     margin-left: 22%
 }
-#right-body {
-    height: auto;
-}
 .container {
     float: left;
-    height: 650px;
+    height: 750px;
     width: 400px;
     border: 5px white dashed;
     margin-top: 50px;
+}
+img {
+    width: 360px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
 p {
     text-transform: uppercase;
     line-height: 35px;
     text-align: center;
     padding: 30px;
-    font-size: 21px;
+    font-size: 20px;
     color: white;
     font-family: 'Bevan', cursive;
 }
-#bands {
+.variables{
     text-align: center;
-    text-transform: capitalize;
-    letter-spacing: 10px;
-    font-size: 30px;
+    letter-spacing: 5px;
+    font-size: 25px;
     font-family: 'Permanent Marker', cursive;
     color: white;
 }
-#letters {
-    text-align: center;
-    text-transform: uppercase;
-    letter-spacing: 10px;
-    font-size: 30px;
-    font-family: 'Permanent Marker', cursive;
-    color: white;
+#wins {
+    height: 30px;
+    width: 400px;
+}
+#guesses {
+    height: 30px;
+    width: 400px;
 }
